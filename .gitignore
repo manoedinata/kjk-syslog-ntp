@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+creds.env
+gns3api
+gns3api/
